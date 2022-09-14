@@ -45,6 +45,12 @@
         box-sizing: border-box;
         margin: auto;
     }
+    @media  screen and (max-width : 768px) {
+        .course-box{
+            width:200px;
+        }
+        
+    }
     .course{
         display: flex;
         padding: 20px;
