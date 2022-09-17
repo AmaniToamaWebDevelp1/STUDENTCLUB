@@ -76,6 +76,13 @@
         height: 20px;
         
     } 
+    .class2{
+        background-image: url('pdf.svg');
+        background-repeat: no-repeat;
+        border: 0em;
+        width: 15px;
+        height: 20px;
+    }
     
     a{  background-color:transparent;
         -webkit-text-decoration-skip:objects;}
