@@ -69,12 +69,12 @@
          background-color: #b08800;
     }
     .class1{
-        background-image: url('pdf.svg');
+        background-image: url('file-zip-fill.svg');
         background-repeat: no-repeat;
         border: 0em;
         width: 15px;
         height: 20px;
-        background-color: #f0eee8;
+        
     } 
     
     a{  background-color:transparent;
