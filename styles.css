@@ -40,14 +40,14 @@
     } */
 
     .course-box{
-        border: 2px #ed7b4a solid;
+        border: 2px;
         width: 550px;
         box-sizing: border-box;
         margin: auto;
     }
     @media  screen and (max-width : 768px) {
         .course-box{
-            width:200px;
+            width:260px;
         }
         
     }
